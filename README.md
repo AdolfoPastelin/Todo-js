@@ -1,6 +1,6 @@
-# Webpack Starter
+# TO-DO App Javascript con Webpack
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este repositorio contiene una aplicación de gestión de tareas sencillas utilizando webpack.
 
 ## Notas
 
